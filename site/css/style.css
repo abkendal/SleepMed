@@ -23,7 +23,7 @@
 =========================================================*/
 body {
 	background: #efefef;
-	font: 13px 'Roboto Condensed', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 16px 'Roboto Condensed', "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 1.428571429;
 	color: #848484;
 }
@@ -74,7 +74,7 @@ h2 {
 	color: #414141;
 }
 h3 {
-	font: 14px/18px 'Roboto Condensed', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 18px/18px 'Roboto Condensed', "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #414141;
 	letter-spacing: 1px;
 	margin: 0 0 15px 0;
@@ -640,7 +640,7 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 .thumb-pad2-1 {
 	margin: 0 0 30px 0;
 	padding: 0 0 20px 0;
-	background: #20acb8;
+	background: #3CA0D2;
 	text-align: center;
 }
 .thumb-pad2-1 .thumbnail {
