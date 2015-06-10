@@ -1453,7 +1453,7 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 ========================================================*/
 .content_map {
 	position: relative;
-	height: 571px;
+	height: 400px;
 	margin-bottom: 65px;
 }
 .google-map-api {
@@ -1462,6 +1462,8 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 	right: 0;
 	top: 0;
 	bottom: 0;
+	max-width: 635px;
+	max-height: 400px;
 }
 #map-canvas {
 	position: absolute;
