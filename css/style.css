@@ -191,9 +191,12 @@ nav.tm_navbar {
 	float: none;
 	min-height: 0;
 	background: #3CA0D2;
+	text-align: center;
+
 }
 nav.tm_navbar .nav.sf-menu {
-	float: left;
+	float: none;
+	display: inline-block;
 }
 nav.tm_navbar .sf-menu li {
 	position: relative;
@@ -1579,6 +1582,9 @@ footer .col-lg-3:after {
 footer .col-lg-3.indent:after {
 	content: none;
 	display: none;
+}
+footer li {
+
 }
 .follow_icon2 {
 	padding: 0;
