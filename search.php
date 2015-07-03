@@ -76,7 +76,7 @@
                 </li>
                 <li><a href="index-2.html">services</a></li>
                 <li><a href="index-3.html">blog</a></li>
-                <li class="active"><a href="index-4.html">Contacts</a></li>
+                <li class="active"><a href="index-4.html">Booking Online</a></li>
             </ul>
             <form id="search" class="search" action="search.php" method="GET" accept-charset="utf-8">
                 <input type="text" name="s" value="" onfocus="if (this.value == '') {this.value=''}" onblur="if (this.value == '') {this.value=''}">
